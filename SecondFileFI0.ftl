@@ -1,2 +1,2 @@
 Finish file
-adding second line
+adding second line with some more text
