@@ -1,3 +1,3 @@
-my first file Jan
+my first file Jan test
 on two lines
 and som more text
