@@ -1,3 +1,6 @@
-Finish file
+Finish file test
 on three lines
-test and som more stuff here
+and som more stuff here
+Finish file test
+on three lines
+and som more stuff here
