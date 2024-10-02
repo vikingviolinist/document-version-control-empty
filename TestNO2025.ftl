@@ -1,5 +1,5 @@
-This is my covernote 2025 for Gard
+This is my covernote 2025 for help
 
-second paragraph Help
+second paragraph 1
 
 third paragraph 2
