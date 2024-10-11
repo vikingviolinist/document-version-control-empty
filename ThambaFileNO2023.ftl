@@ -1,3 +1,3 @@
-Thamba's file
+Sindre's file
 
 Second paragraph
